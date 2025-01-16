@@ -34,4 +34,4 @@ Create an Aseprite image that contains anwhere from 1-16 colors. NOTE: The SGB c
 
   本物のスーパーゲームボーイの見本：
 
-   ![](https://github.com/Bofner/SGB-Palette-Data-Packet-Export-from-Aseprite/blob/main/images/which%20palettes.jpg)
+   ![](https://github.com/Bofner/SGB-Palette-Data-Packet-Export-from-Aseprite/blob/main/images/animation.gif)
